@@ -1,38 +1,11 @@
 # Index test file for Open Publishing
 
-# test-
-
+```azurecli
+test1
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```azurecli-interactive
+test2
 ```
 
-[t1](#test)
-[t2](#test-)
+     [!code-azurecli-interactive[](test.ps)]
