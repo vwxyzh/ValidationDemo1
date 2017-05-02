@@ -8,5 +8,4 @@ test1
 test2
 ```
 
-
 [!code-azurecli-interactive[](test.ps)]
