@@ -9,3 +9,10 @@ test2
 ```
 
      [!code-azurecli-interactive[](test.ps)]
+     
+     
+# [a](#tab/a/b)
+aaa
+# [b](#tab/b/c)
+bbb
+- - -
