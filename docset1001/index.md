@@ -1,38 +1,5 @@
 # Index test file for Open Publishing
 
-# test-
+## test uid
 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
-[t1](#test)
-[t2](#test-)
+@Microsoft.DocAsCode.FileMappingItem
