@@ -32,6 +32,7 @@
     "template": [
       null
     ],
-    "dest": "docset1001"
+    "dest": "docset1001",
+    "xrefService": "https://op-build-sandbox2.azurewebsites.net/v1/xref/uids/{uid}/?tags=test"
   }
 }
